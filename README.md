@@ -49,7 +49,7 @@ Customer churn refers to when customers stop doing business with a company. In t
 
 ## 📷 Streamlit App Preview
 
-![Streamlit Screenshot](assets/streamlit_demo.png)  *(optional if you add)*
+![Streamlit Screenshot](1.png)  *(optional if you add)*
 
 ---
 
