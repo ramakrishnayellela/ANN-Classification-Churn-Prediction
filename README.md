@@ -2,7 +2,7 @@
 
 This repository contains an end-to-end machine learning project focused on predicting **customer churn** for a bank using an **Artificial Neural Network (ANN)**. The project includes data preprocessing, ANN model building using Keras, development of a Streamlit web application, and deployment.
 
-> 📚 Project inspired by **Krish Naik’s Deep Learning Course on Udemy**.
+> 📚 Project inspired by **Krish Naik’s Complete Data Science Course on Udemy**.
 
 ---
 
@@ -52,8 +52,7 @@ Customer churn refers to when customers stop doing business with a company. In t
 
 ## ▶️ Run the App Locally
 
-1. Clone the repository:
-```bash
+1.Clone the repository:
 git clone https://github.com/yourusername/customer-churn-ann.git
 cd customer-churn-ann
 
@@ -62,8 +61,10 @@ pip install -r requirements.txt
 
 3.Run Streamlit app
 streamlit run streamlit_app.py
+
 ---
-## 🔗 Deployment
+
+## ▶️ Run the App 
 The app is deployed and can be accessed here:
 👉 Live Demo https://ann-classification-churn-prediction-jdyzawjhdyzktpwpd3gmzt.streamlit.app/
 
