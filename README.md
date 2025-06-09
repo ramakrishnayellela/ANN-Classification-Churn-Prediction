@@ -12,9 +12,6 @@ Customer churn refers to when customers stop doing business with a company. In t
 
 ---
 
-
----
-
 ## 🧪 Technologies Used
 
 - Python
@@ -49,7 +46,7 @@ Customer churn refers to when customers stop doing business with a company. In t
 
 ## 📷 Streamlit App Preview
 
-![Streamlit Screenshot](1.png)  *(optional if you add)*
+![Streamlit Screenshot](1.png)  
 
 ---
 
@@ -59,5 +56,15 @@ Customer churn refers to when customers stop doing business with a company. In t
 ```bash
 git clone https://github.com/yourusername/customer-churn-ann.git
 cd customer-churn-ann
+
+2.Install Dependencies
+pip install -r requirements.txt
+
+3.Run Streamlit app
+streamlit run streamlit_app.py
+---
+## 🔗 Deployment
+The app is deployed and can be accessed here:
+👉 Live Demo https://ann-classification-churn-prediction-jdyzawjhdyzktpwpd3gmzt.streamlit.app/
 
 
